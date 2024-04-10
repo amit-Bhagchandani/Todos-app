@@ -1,0 +1,13 @@
+.filter {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  color: gray;
+}
+
+.filter select {
+  background-color: var(--Gray);
+  color: white;
+  border-radius: 10px;
+  padding: 0.5rem;
+}

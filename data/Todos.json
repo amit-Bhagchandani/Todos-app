@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "ea8340e3-51aa-3ac0-1889-e782faa8bc59",
+      "todo": "todo 1",
+      "completed": true
+    },
+    {
+      "id": "a0a39e87-4057-dd66-7edb-bf77d4951d4b",
+      "todo": "todo 4",
+      "completed": true
+    },
+    {
+      "id": "739b1677-4d66-a67f-bccd-5fb0ed69e423",
+      "todo": "todo 5",
+      "completed": true
+    },
+    {
+      "id": "2856dd7b-b939-66ff-046b-135338f1d9bf",
+      "todo": "todo 6",
+      "completed": false
+    },
+    {
+      "id": "f33e2b5d-4f2d-f071-59bf-a1ebc37b6154",
+      "todo": "todo 8",
+      "completed": false
+    },
+    {
+      "id": "668fa72d-0bb6-4554-abb5-c2c2e2f329a6",
+      "todo": "todo 9",
+      "completed": false
+    },
+    {
+      "id": "c17286f0-ba78-ea3d-f21d-f5f357f1c3e7",
+      "todo": "todo 10",
+      "completed": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.createTodoContainer {
+  width: 65%;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.createTodoContainer input {
+  width: 75%;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.createTodoContainer button {
+  padding: 0.5rem;
+  width: 3rem;
+  background-color: var(--Gray);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
